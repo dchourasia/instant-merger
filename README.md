@@ -1,1 +1,2 @@
-# instant-merger doc updated
+
+# instant-merger doc updated from App
